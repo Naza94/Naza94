@@ -17,13 +17,7 @@
 
 ### 🧑‍💻 Chi sono
 
-Sviluppatore backend Java con circa 4 anni di esperienza, focalizzato su **applicazioni enterprise in ambito bancario e fintech**: onboarding digitale, servizi REST ad alto volume e batch di elaborazione dati.
-
-- 🏗️ Lavoro quotidianamente con **Java, Spring Boot, Spring Batch** e architetture a **microservizi**
-- 🔎 Osservabilità e troubleshooting in produzione con **Splunk** e **Kibana**
-- 🧪 Attenzione a test, contratti API (**OpenAPI/Swagger**) e code review
-
----
+Sviluppatore backend Java con circa 4 anni di esperienza, focalizzato su **applicazioni enterprise in ambito bancario e fintech**,servizi REST e batch di elaborazione dati.
 
 ### 🛠️ Tech Stack
 
