@@ -50,13 +50,13 @@ Sviluppatore backend Java con circa 4 anni di esperienza, focalizzato su **appli
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naza94&theme=shadow_blue&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Statistiche GitHub di Naza94"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naza94&theme=shadow_blue&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt=""/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Naza94&theme=shadow_blue&hide_border=true&locale=it" alt="Streak di contributi"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naza94&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8" alt="Linguaggi più usati"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naza94&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8" alt=""/>
 </p>
 
 ---
